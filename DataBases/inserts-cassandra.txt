@@ -1,0 +1,316 @@
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel071119925551234567', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-01T08:00:00', 2h);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel071119925551234567', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-05T11:30:00', 1h30m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel071119925551234567', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-10T15:15:00', 1h45m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel071119925551234567', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-15T18:45:00', 1h20m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel071119925551234567', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-20T22:00:00', 1h50m);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Daniel150319995559876543', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-01T09:30:00', 2h15m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Daniel150319995559876543', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-02T18:45:00', 1h55m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Daniel150319995559876543', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-03T15:20:00', 2h4m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Daniel150319995559876543', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-04T21:10:00', 1h42m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Daniel150319995559876543', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-05T14:50:00', 2h28m);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Esmeralda250919905552468135', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-02 10:30:00', 2h30m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Esmeralda250919905552468135', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-05 18:15:00', 1h45m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Esmeralda250919905552468135', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-12 21:00:00', 2h10m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Esmeralda250919905552468135', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-19 14:45:00', 1h20m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Esmeralda250919905552468135', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-28 19:30:00', 2h15m50s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago120619955553698524', {id_pelicula: 'Inception22072010', nombre: 'Inception'},'2023-01-05T08:30:00Z',2h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago120619955553698524', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'},'2023-01-10T17:15:00Z',1h45m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago120619955553698524', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'},'2023-01-15T20:00:00Z', 1h20m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago120619955553698524', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'},'2023-01-20T12:45:00Z', 1h10m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago120619955553698524', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'},'2023-01-25T19:30:00Z', 3h15m05s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Azucena030419955557418529', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-03 08:15:00', 2h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Azucena030419955557418529', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-07 19:45:00', 1h50m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Azucena030419955557418529', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-12 14:30:00', 2h15m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Azucena030419955557418529', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-18 20:10:00', 1h55m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Azucena030419955557418529', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-22 11:55:00', 2h5m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MiguelHidalgo061119995513290489', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}, '2023-01-01 08:30:00', 2h30m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MiguelHidalgo061119995513290489', {id_pelicula: 'JohnWick24102014', nombre: 'John Wick'}, '2023-01-04 17:45:00', 1h45m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MiguelHidalgo061119995513290489', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-10 21:15:00', 2h10m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MiguelHidalgo061119995513290489', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-15 13:00:00', 2h15m0s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MiguelHidalgo061119995513290489', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-20 19:30:00', 3h0m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JuanaPerez150919855522187634', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-01 09:00:00', 2h30m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JuanaPerez150919855522187634', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}, '2023-01-02 15:30:00', 1h45m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JuanaPerez150919855522187634', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-04 20:15:00', 2h10m05s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JuanaPerez150919855522187634', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-06 12:45:00', 1h50m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JuanaPerez150919855522187634', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-10 18:20:00', 2h05m45s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('PedroLopez280319925546298102', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-05 18:30:00', 1h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('PedroLopez280319925546298102', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-12 21:15:00', 2h10m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('PedroLopez280319925546298102', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-18 16:45:00', 1h45m35s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('PedroLopez280319925546298102', {id_pelicula: 'TheShining23051980', nombre: 'The Shining'}, '2023-01-24 19:20:00', 2h20m50s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('PedroLopez280319925546298102', {id_pelicula: 'JohnWick24102014', nombre: 'John Wick'}, '2023-01-30 22:00:00', 1h50m15s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('AnaGarcia110719885578152098', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-03 10:30:00', 1h30m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('AnaGarcia110719885578152098', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}, '2023-01-05 16:45:00', 2h10m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('AnaGarcia110719885578152098', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-10 19:15:00', 1h45m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('AnaGarcia110719885578152098', {id_pelicula: 'BatmanVsSupermanDownOfJustice25032016', nombre: 'Batman VS Superman: Dawn of Justice'}, '2023-01-12 21:00:00', 2h03m);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('AnaGarcia110719885578152098', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-18 14:30:00', 1h55m);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LuisHernandez030519965567489123', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-05 18:30:00', 2h15m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LuisHernandez030519965567489123', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-10 21:15:00', 1h50m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LuisHernandez030519965567489123', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-15 14:45:00', 2h5m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LuisHernandez030519965567489123', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-22 19:00:00', 1h35m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LuisHernandez030519965567489123', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-30 12:20:00', 2h20m50s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('CarolinaRuiz191219915589764321', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-01 10:30:00', 1h30m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('CarolinaRuiz191219915589764321', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-02 14:45:00', 2h15m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('CarolinaRuiz191219915589764321', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-05 19:20:00', 1h50m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('CarolinaRuiz191219915589764321', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-10 16:10:00', 2h10m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('CarolinaRuiz191219915589764321', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-15 21:05:00', 2h45m20s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JorgeSanchez090819825553126789', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-01 08:15:00', 1h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JorgeSanchez090819825553126789', {id_pelicula: 'TheShining23051980', nombre: 'The Shining'}, '2023-01-03 17:45:00', 2h10m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JorgeSanchez090819825553126789', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-05 21:30:00', 1h50m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JorgeSanchez090819825553126789', {id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}, '2023-01-08 12:00:00', 2h05m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('JorgeSanchez090819825553126789', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-10 19:20:00', 1h55m20s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MariaLopez220619975532987654', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-01 09:30:00', 2h15m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MariaLopez220619975532987654', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-05 18:45:00', 1h50m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MariaLopez220619975532987654', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-10 14:20:00', 2h5m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MariaLopez220619975532987654', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-15 20:10:00', 1h40m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('MariaLopez220619975532987654', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-20 12:55:00', 2h30m15s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('RicardoGomez140219895598765432', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-01T08:00:00', 2h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('RicardoGomez140219895598765432', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}, '2023-01-02T14:30:00', 1h15m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('RicardoGomez140219895598765432', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-03T19:45:00', 2h10m35s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('RicardoGomez140219895598765432', {id_pelicula: 'TheDarkKnight18072008', nombre: 'The Dark Knight'}, '2023-01-04T12:15:00', 2h5m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('RicardoGomez140219895598765432', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-05T20:00:00', 1h30m10s);
+
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LauraMartinez271019935509238476', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-03 08:30:00', 2h10m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LauraMartinez271019935509238476', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-10 15:45:00', 1h55m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LauraMartinez271019935509238476', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-18 21:20:00', 2h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LauraMartinez271019935509238476', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-25 12:15:00', 1h40m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('LauraMartinez271019935509238476', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-30 19:55:00', 2h15m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Juan150520034421050928', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-05 09:28:00', 2h11m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Juan150520034421050928', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-10 12:30:00', 2h14m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Juan150520034421050928', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-15 18:45:00', 1h32m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Juan150520034421050928', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-20 21:10:00', 1h40m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Juan150520034421050928', {id_pelicula: 'TheDarkKnight18072008', nombre: 'The Dark Knight'}, '2023-01-25 15:20:00', 2h32m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maria030419885512093876', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-05 10:30:00', 2h15m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maria030419885512093876', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}, '2023-01-10 12:45:00', 1h40m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maria030419885512093876', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-15 16:20:00', 1h50m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maria030419885512093876', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-20 19:05:00', 1h25m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maria030419885512093876', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-25 21:40:00', 2h10m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Luisa100620007224087631', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-02 18:30:00', 1h45m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Luisa100620007224087631', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-05 14:15:00', 2h10m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Luisa100620007224087631', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-10 20:45:00', 1h30m50s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Luisa100620007224087631', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-15 12:00:00', 2h05m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Luisa100620007224087631', {id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}, '2023-01-20 16:30:00', 2h45m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Pedro280219953336092837', {id_pelicula: 'TheDarkKnight18072008', nombre: 'The Dark Knight'}, '2023-01-02 19:30:00', 2h32m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Pedro280219953336092837', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-06 21:15:00', 1h54m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Pedro280219953336092837', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-10 18:45:00', 2h08m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Pedro280219953336092837', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-15 20:00:00', 2h20m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Pedro280219953336092837', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-20 17:30:00', 2h28m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Laura200720016647213982', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-02 18:30:00', 2h11m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Laura200720016647213982', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-06 20:15:00', 1h54m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Laura200720016647213982', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-10 19:45:00', 2h23m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Laura200720016647213982', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-15 21:00:00', 1h50m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Laura200720016647213982', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-20 18:30:00', 1h32m15s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Diego140319748184092573', {id_pelicula: 'shining23051980', nombre: 'The Shining'}, '2023-01-02 19:30:00', 2h26m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Diego140319748184092573', {id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}, '2023-01-06 21:15:00', 1h50m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Diego140319748184092573', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-10 20:45:00', 2h14m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Diego140319748184092573', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-15 22:00:00', 1h52m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Diego140319748184092573', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-20 19:30:00', 1h48m15s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Carolina220820076675089276', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-02 18:30:00', 1h58m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Carolina220820076675089276', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-06 20:45:00', 2h14m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Carolina220820076675089276', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-10 19:15:00', 2h32m10s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Carolina220820076675089276', {id_pelicula: 'shining23051980', nombre: 'The Shining'}, '2023-01-15 22:00:00', 1h46m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Carolina220820076675089276', {id_pelicula: 'JohnWick24102014', nombre: 'John Wick'}, '2023-01-20 18:30:00', 1h53m45s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Fernando070519934427109843', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-02 18:30:00', 2h10m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Fernando070519934427109843', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-06 20:45:00', 1h45m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Fernando070519934427109843', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-10 19:15:00', 1h30m40s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Fernando070519934427109843', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-15 22:00:00', 2h15m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Fernando070519934427109843', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-20 18:30:00', 2h30m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabel011119963338790426', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-02 18:30:00', 1h55m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabel011119963338790426', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-06 20:45:00', 2h10m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabel011119963338790426', {id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}, '2023-01-10 19:15:00', 1h30m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabel011119963338790426', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-15 22:00:00', 2h30m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabel011119963338790426', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-20 18:30:00', 1h45m10s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Alejandro250719826642539176', {id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}, '2023-01-02 19:00:00', 1h33m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Alejandro250719826642539176', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-06 20:30:00', 2h08m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Alejandro250719826642539176', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-10 18:15:00', 2h14m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Alejandro250719826642539176', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-15 21:45:00', 1h55m20s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Alejandro250719826642539176', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-20 19:30:00', 1h54m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago180419924421050928', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-02 18:30:00', 2h13m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago180419924421050928', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-06 19:45:00', 2h09m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago180419924421050928', {id_pelicula: 'shining23051980', nombre: 'The Shining'}, '2023-01-10 21:15:00', 2h26m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago180419924421050928', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-15 18:45:00', 1h32m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Santiago180419924421050928', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-20 20:30:00', 2h18m45s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabella120319875512093876', {id_pelicula: 'shining23051980', nombre: 'The Shining'}, '2023-01-02 18:30:00', 1h50m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabella120319875512093876', {id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}, '2023-01-06 19:45:00', 2h05m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabella120319875512093876', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-10 21:15:00', 1h58m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabella120319875512093876', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-15 18:45:00', 2h13m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Isabella120319875512093876', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-20 20:30:00', 1h40m15s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel050719797224087631', {id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}, '2023-01-01 20:15:00', 1h55m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel050719797224087631', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-05 18:30:00', 2h30m15s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel050719797224087631', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-09 19:45:00', 2h15m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel050719797224087631', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-13 21:00:00', 1h50m45s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Gabriel050719797224087631', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-17 20:30:00', 2h05m30s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valentina240519863336092837', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-01 19:30:00', 2h05m30s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valentina240519863336092837', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-05 21:45:00', 1h32m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valentina240519863336092837', {id_pelicula: 'Rush27092013', nombre: 'Rush'}, '2023-01-09 18:15:00', 2h03m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valentina240519863336092837', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-13 20:30:00', 2h28m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valentina240519863336092837', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-17 19:00:00', 2h14m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maximiliano140219996647213982', {id_pelicula: 'Inception22072010', nombre: 'Inception'}, '2023-01-02 18:30:00', 2h28m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maximiliano140219996647213982', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-05 20:45:00', 1h45m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maximiliano140219996647213982', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-09 19:15:00', 1h32m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maximiliano140219996647213982', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-14 21:30:00', 2h11m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Maximiliano140219996647213982', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-18 20:00:00', 2h14m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valeria080719778184092573', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-02 18:30:00', 1h45m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valeria080719778184092573', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-05 20:45:00', 2h14m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valeria080719778184092573', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-09 19:15:00', 2h11m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valeria080719778184092573', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-14 21:30:00', 1h54m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Valeria080719778184092573', {id_pelicula: 'Shooter23032007', nombre: 'Shooter'}, '2023-01-18 20:00:00', 2h04m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Sebastian220820056675089276', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-01 18:30:00', 2h08m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Sebastian220820056675089276', {id_pelicula: 'TheHangoverPartII26052011', nombre: 'The Hangover Part II'}, '2023-01-03 20:45:00', 1h35m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Sebastian220820056675089276', {id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}, '2023-01-06 19:15:00', 2h21m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Sebastian220820056675089276', {id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}, '2023-01-10 21:30:00', 1h50m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Sebastian220820056675089276', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-15 20:00:00', 2h05m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Lucia010119854427109843', {id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}, '2023-01-02 19:30:00', 1h32m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Lucia010119854427109843', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-04 21:15:00', 2h20m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Lucia010119854427109843', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-07 18:45:00', 1h57m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Lucia010119854427109843', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-11 20:30:00', 2h14m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Lucia010119854427109843', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-15 19:00:00', 2h08m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Emilio021219963338790426', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-02 18:30:00', 1h48m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Emilio021219963338790426', {id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}, '2023-01-04 20:15:00', 2h05m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Emilio021219963338790426', {id_pelicula: 'LaNocheDelDemonio17062010', nombre: 'La Noche del Demonio'}, '2023-01-07 19:45:00', 1h38m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Emilio021219963338790426', {id_pelicula: 'ElLoboDeWallStreet10012014', nombre: 'El Lobo de Wall Street'}, '2023-01-11 21:30:00', 3h00m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Emilio021219963338790426', {id_pelicula: 'CuestionDeTiempo06122013', nombre: 'Cuestión de Tiempo'}, '2023-01-13 22:00:00', 2h03m00s);
+
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Camila050220006642539176', {id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}, '2023-01-05 19:30:00', 1h40m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Camila050220006642539176', {id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}, '2023-01-09 21:15:00', 2h08m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Camila050220006642539176', {id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}, '2023-01-14 18:45:00', 1h52m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Camila050220006642539176', {id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}, '2023-01-18 20:30:00', 2h20m00s);
+INSERT INTO actividad_usuario (id_usuario, pelicula_vista, inicio_conexion, tiempo_conexion) VALUES ('Camila050220006642539176', {id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}, '2023-01-21 19:00:00', 1h47m00s);
+
+--- RESENIAS
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Gabriel071119925551234567', 'TheDarkKnight18072008', 9, {id_resenia: 'resenia1', contenido: 'Me encantó esta película. La actuación de Heath Ledger como el Joker fue increíble.', creation_date: '2023-01-10 12:00:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Daniel150319995559876543', 'LaNocheDelDemonio17062010', 7, {id_resenia: 'resenia2', contenido: 'Es una película de terror decente. Me asusté en algunas escenas.', creation_date: '2023-01-15 15:30:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Esmeralda250919905552468135', 'Rush27092013', 8, {id_resenia: 'resenia3', contenido: 'Me gustó mucho esta película. Las actuaciones son excelentes y la historia es emocionante.', creation_date: '2023-01-20 18:45:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Santiago120619955553698524', 'TheConjuring210062016', 6, {id_resenia: 'resenia4', contenido: 'No soy fan de las películas de terror, pero esta tuvo algunas escenas interesantes.', creation_date: '2023-01-25 09:15:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Azucena030419955557418529', 'Shrek215052004', 9, {id_resenia: 'resenia5', contenido: 'Esta película es muy divertida. Me encanta el personaje del Burro.', creation_date: '2023-01-30 14:20:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('MiguelHidalgo061119995513290489', 'JohnWick24102014', 10, {id_resenia: 'resenia6', contenido: '¡Esta película es impresionante! Las escenas de acción son increíbles.', creation_date: '2023-01-05 20:10:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('JuanaPerez150919855522187634', 'Interstellar05112014', 8, {id_resenia: 'resenia7', contenido: 'Me gustó el concepto de viajes interestelares en esta película.', creation_date: '2023-01-12 11:30:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('PedroLopez280319925546298102', 'TheImitationGame14112014', 9, {id_resenia: 'resenia8', contenido: 'Esta película es fascinante. Alan Turing es un personaje increíble.', creation_date: '2023-01-17 16:40:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('AnaGarcia110719885578152098', 'Inception22072010', 9, {id_resenia: 'resenia9', contenido: 'Me encantó esta película. La trama es compleja y sorprendente.', creation_date: '2023-01-22 13:25:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('LuisHernandez030519965567489123', 'IRobot15072004', 7, {id_resenia: 'resenia10', contenido: 'Es una película entretenida, pero esperaba un poco más de acción.', creation_date: '2023-01-27 08:50:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('CarolinaRuiz191219915589764321', 'ToyStory213111999', 10, {id_resenia: 'resenia11', contenido: 'Amo esta película. Es un clásico de la infancia.', creation_date: '2023-01-04 17:55:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('JorgeSanchez090819825553126789', 'ElLoboDeWallStreet10012014', 9, {id_resenia: 'resenia12', contenido: 'Esta película es increíblemente intensa y Leonardo DiCaprio hace un trabajo fenomenal.', creation_date: '2023-01-09 10:05:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('MariaLopez220619975532987654', 'LaLaLand09122016', 8, {id_resenia: 'resenia13', contenido: 'La música y las actuaciones en esta película son fantásticas.', creation_date: '2023-01-14 13:45:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('RicardoGomez140219895598765432', 'Shooter23032007', 7, {id_resenia: 'resenia14', contenido: 'Es una película de acción decente, pero la trama es predecible.', creation_date: '2023-01-19 15:00:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('LauraMartinez271019935509238476', 'GrownUps25062010', 6, {id_resenia: 'resenia15', contenido: 'No fue mi tipo de comedia, no me hizo reír mucho.', creation_date: '2023-01-24 09:30:00'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Juan150520034421050928', 'Interstellar05112014', 8, {id_resenia: 'resenia16', contenido: '¡Una película asombrosa! Me encantó la trama y los efectos visuales.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Maria030419885512093876', 'Shrek215052004', 9, {id_resenia: 'resenia17', contenido: 'Una comedia animada muy divertida con personajes encantadores.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Luisa100620007224087631', 'TheDarkKnight18072008', 10, {id_resenia: 'resenia18', contenido: '¡Una película de Batman increíble! La actuación de Heath Ledger como el Joker es fenomenal.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Pedro280219953336092837', 'RapidosFuriosos515042011', 7, {id_resenia: 'resenia19', contenido: 'Una película llena de acción y carreras de autos emocionantes.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Laura200720016647213982', 'TheConjuring210062016', 6, {id_resenia: 'resenia20', contenido: 'Una película de terror que te mantendrá al borde del asiento.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Diego140319748184092573', 'Inception22072010', 9, {id_resenia: 'resenia21', contenido: 'Un viaje alucinante a través de los sueños. ¡Muy recomendada!', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Carolina220820076675089276', 'LaNocheDelDemonio17062010', 8, {id_resenia: 'resenia22', contenido: 'Una película de terror espeluznante con una trama intrigante.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Fernando070519934427109843', 'IRobot15072004', 7, {id_resenia: 'resenia23', contenido: 'Una historia futurista interesante sobre la relación entre humanos y robots.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Isabel011119963338790426', 'Shrek215052004', 8, {id_resenia: 'resenia24', contenido: 'Una película divertida y con personajes encantadores. ¡Me encanta Shrek!', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Alejandro250719826642539176', 'TheImitationGame14112014', 9, {id_resenia: 'resenia25', contenido: 'Una película fascinante basada en hechos reales. Benedict Cumberbatch hace un excelente trabajo como Alan Turing.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Santiago180419924421050928', 'GrownUps25062010', 6, {id_resenia: 'resenia26', contenido: 'Una comedia ligera y entretenida para pasar el rato con amigos.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Isabella120319875512093876', 'RapidosFuriosos515042011', 9, {id_resenia: 'resenia27', contenido: 'Acción desenfrenada y carreras emocionantes. Me encanta la saga de Rápidos y Furiosos.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Gabriel050719797224087631', 'TheDarkKnight18072008', 10, {id_resenia: 'resenia28', contenido: 'Una obra maestra del cine de superhéroes. Heath Ledger como el Joker es increíble.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Valentina240519863336092837', 'LaLaLand09122016', 9, {id_resenia: 'resenia29', contenido: 'Una hermosa película con música y romance. Ryan Gosling y Emma Stone tienen una gran química.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Maximiliano140219996647213982', 'ToyStory213111999', 8, {id_resenia: 'resenia30', contenido: 'Una película animada clásica que aún me hace reír. Los personajes son adorables.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Valeria080719778184092573', 'TheShining23051980', 9, {id_resenia: 'resenia31', contenido: 'Un clásico del terror con una actuación brillante de Jack Nicholson. Me mantuvo en suspenso.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Sebastian220820056675089276', 'TheDarkKnight18072008', 9, {id_resenia: 'resenia32', contenido: 'The Dark Knight es una película increíblemente emocionante y llena de acción. Me encantó la actuación de Heath Ledger como el Joker.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Lucia010119854427109843', 'ElLoboDeWallStreet10012014', 8, {id_resenia: 'resenia33', contenido: 'El Lobo de Wall Street es una película fascinante que retrata la vida extravagante y desenfrenada de un corredor de bolsa. Leonardo DiCaprio ofrece una actuación brillante y la trama te mantiene cautivado de principio a fin.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Emilio021219963338790426', 'Shrek215052004', 9, {id_resenia: 'resenia34', contenido: 'Shrek 2 es una película muy divertida y llena de humor. Me encantaron los personajes y las situaciones cómicas. Definitivamente la recomendaría.', creation_date: '2023-06-06'});
+
+INSERT INTO calificaciones_peliculas (id_usuario, id_pelicula, rating, resenias)
+VALUES ('Camila050220006642539176', 'Inception22072010', 10, {id_resenia: 'resenia35', contenido: 'Inception es una obra maestra del cine. La trama es intrigante y te mantiene al borde de tu asiento en todo momento. Las actuaciones son excelentes y los efectos visuales son impresionantes. Sin duda, una de mis películas favoritas.', creation_date: '2023-06-06'});

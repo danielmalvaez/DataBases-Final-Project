@@ -1,0 +1,176 @@
+id_usuario,inicio_conexion,pelicula_vista,tiempo_conexion
+PedroLopez280319925546298102,2023-01-06 00:30:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",1h30m45s
+PedroLopez280319925546298102,2023-01-13 03:15:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h10m20s
+PedroLopez280319925546298102,2023-01-18 22:45:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h45m35s
+PedroLopez280319925546298102,2023-01-25 01:20:00.000+0000,"{id_pelicula: 'TheShining23051980', nombre: 'The Shining'}",2h20m50s
+PedroLopez280319925546298102,2023-01-31 04:00:00.000+0000,"{id_pelicula: 'JohnWick24102014', nombre: 'John Wick'}",1h50m15s
+Diego140319748184092573,2023-01-03 01:30:00.000+0000,"{id_pelicula: 'shining23051980', nombre: 'The Shining'}",2h26m15s
+Diego140319748184092573,2023-01-07 03:15:00.000+0000,"{id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}",1h50m45s
+Diego140319748184092573,2023-01-11 02:45:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h14m30s
+Diego140319748184092573,2023-01-16 04:00:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h52m20s
+Diego140319748184092573,2023-01-21 01:30:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h48m15s
+Valeria080719778184092573,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h45m
+Valeria080719778184092573,2023-01-06 02:45:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h14m
+Valeria080719778184092573,2023-01-10 01:15:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h11m
+Valeria080719778184092573,2023-01-15 03:30:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h54m
+Valeria080719778184092573,2023-01-19 02:00:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h4m
+MiguelHidalgo061119995513290489,2023-01-01 14:30:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",2h30m15s
+MiguelHidalgo061119995513290489,2023-01-04 23:45:00.000+0000,"{id_pelicula: 'JohnWick24102014', nombre: 'John Wick'}",1h45m30s
+MiguelHidalgo061119995513290489,2023-01-11 03:15:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",2h10m45s
+MiguelHidalgo061119995513290489,2023-01-15 19:00:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h15m
+MiguelHidalgo061119995513290489,2023-01-21 01:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",3h10s
+Camila050220006642539176,2023-01-06 01:30:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h40m
+Camila050220006642539176,2023-01-10 03:15:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h8m
+Camila050220006642539176,2023-01-15 00:45:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",1h52m
+Camila050220006642539176,2023-01-19 02:30:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h20m
+Camila050220006642539176,2023-01-22 01:00:00.000+0000,"{id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}",1h47m
+Isabella120319875512093876,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'shining23051980', nombre: 'The Shining'}",1h50m15s
+Isabella120319875512093876,2023-01-07 01:45:00.000+0000,"{id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}",2h5m30s
+Isabella120319875512093876,2023-01-11 03:15:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h58m
+Isabella120319875512093876,2023-01-16 00:45:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h13m45s
+Isabella120319875512093876,2023-01-21 02:30:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h40m15s
+Maria030419885512093876,2023-01-05 16:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h15m30s
+Maria030419885512093876,2023-01-10 18:45:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",1h40m15s
+Maria030419885512093876,2023-01-15 22:20:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h50m45s
+Maria030419885512093876,2023-01-21 01:05:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h25m30s
+Maria030419885512093876,2023-01-26 03:40:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",2h10m
+Lucia010119854427109843,2023-01-03 01:30:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h32m
+Lucia010119854427109843,2023-01-05 03:15:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h20m
+Lucia010119854427109843,2023-01-08 00:45:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h57m
+Lucia010119854427109843,2023-01-12 02:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h14m
+Lucia010119854427109843,2023-01-16 01:00:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h8m
+JuanaPerez150919855522187634,2023-01-01 15:00:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",2h30m15s
+JuanaPerez150919855522187634,2023-01-02 21:30:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",1h45m30s
+JuanaPerez150919855522187634,2023-01-05 02:15:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",2h10m5s
+JuanaPerez150919855522187634,2023-01-06 18:45:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h50m20s
+JuanaPerez150919855522187634,2023-01-11 00:20:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h5m45s
+Laura200720016647213982,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h11m30s
+Laura200720016647213982,2023-01-07 02:15:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h54m45s
+Laura200720016647213982,2023-01-11 01:45:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h23m10s
+Laura200720016647213982,2023-01-16 03:00:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h50m20s
+Laura200720016647213982,2023-01-21 00:30:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h32m15s
+LauraMartinez271019935509238476,2023-01-03 14:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h10m30s
+LauraMartinez271019935509238476,2023-01-10 21:45:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h55m15s
+LauraMartinez271019935509238476,2023-01-19 03:20:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h30m45s
+LauraMartinez271019935509238476,2023-01-25 18:15:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h40m20s
+LauraMartinez271019935509238476,2023-01-31 01:55:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h15m10s
+Santiago180419924421050928,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h13m45s
+Santiago180419924421050928,2023-01-07 01:45:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h9m30s
+Santiago180419924421050928,2023-01-11 03:15:00.000+0000,"{id_pelicula: 'shining23051980', nombre: 'The Shining'}",2h26m
+Santiago180419924421050928,2023-01-16 00:45:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h32m15s
+Santiago180419924421050928,2023-01-21 02:30:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h18m45s
+Luisa100620007224087631,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h45m20s
+Luisa100620007224087631,2023-01-05 20:15:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h10m15s
+Luisa100620007224087631,2023-01-11 02:45:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",1h30m50s
+Luisa100620007224087631,2023-01-15 18:00:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h5m30s
+Luisa100620007224087631,2023-01-20 22:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h45m10s
+Esmeralda250919905552468135,2023-01-02 16:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h30m15s
+Esmeralda250919905552468135,2023-01-06 00:15:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h45m30s
+Esmeralda250919905552468135,2023-01-13 03:00:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h10m45s
+Esmeralda250919905552468135,2023-01-19 20:45:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h20m10s
+Esmeralda250919905552468135,2023-01-29 01:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h15m50s
+AnaGarcia110719885578152098,2023-01-03 16:30:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h30m
+AnaGarcia110719885578152098,2023-01-05 22:45:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",2h10m
+AnaGarcia110719885578152098,2023-01-11 01:15:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h45m
+AnaGarcia110719885578152098,2023-01-13 03:00:00.000+0000,"{id_pelicula: 'BatmanVsSupermanDownOfJustice25032016', nombre: 'Batman VS Superman: Dawn of Justice'}",2h3m
+AnaGarcia110719885578152098,2023-01-18 20:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",1h55m
+Juan150520034421050928,2023-01-05 15:28:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h11m
+Juan150520034421050928,2023-01-10 18:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h14m30s
+Juan150520034421050928,2023-01-16 00:45:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h32m15s
+Juan150520034421050928,2023-01-21 03:10:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h40m45s
+Juan150520034421050928,2023-01-25 21:20:00.000+0000,"{id_pelicula: 'TheDarkKnight18072008', nombre: 'The Dark Knight'}",2h32m10s
+LuisHernandez030519965567489123,2023-01-06 00:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h15m30s
+LuisHernandez030519965567489123,2023-01-11 03:15:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h50m45s
+LuisHernandez030519965567489123,2023-01-15 20:45:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h5m20s
+LuisHernandez030519965567489123,2023-01-23 01:00:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h35m10s
+LuisHernandez030519965567489123,2023-01-30 18:20:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",2h20m50s
+Alejandro250719826642539176,2023-01-03 01:00:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",1h33m15s
+Alejandro250719826642539176,2023-01-07 02:30:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h8m
+Alejandro250719826642539176,2023-01-11 00:15:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h14m30s
+Alejandro250719826642539176,2023-01-16 03:45:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",1h55m20s
+Alejandro250719826642539176,2023-01-21 01:30:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h54m
+Santiago120619955553698524,2023-01-05 08:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h30m45s
+Santiago120619955553698524,2023-01-10 17:15:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h45m20s
+Santiago120619955553698524,2023-01-15 20:00:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",1h20m10s
+Santiago120619955553698524,2023-01-20 12:45:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h10m30s
+Santiago120619955553698524,2023-01-25 19:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",3h15m5s
+CarolinaRuiz191219915589764321,2023-01-01 16:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",1h30m10s
+CarolinaRuiz191219915589764321,2023-01-02 20:45:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",2h15m30s
+CarolinaRuiz191219915589764321,2023-01-06 01:20:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",1h50m45s
+CarolinaRuiz191219915589764321,2023-01-10 22:10:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",2h10m15s
+CarolinaRuiz191219915589764321,2023-01-16 03:05:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h45m20s
+Daniel150319995559876543,2023-01-01 15:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h15m
+Daniel150319995559876543,2023-01-03 00:45:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h55m
+Daniel150319995559876543,2023-01-03 21:20:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h4m
+Daniel150319995559876543,2023-01-05 03:10:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h42m
+Daniel150319995559876543,2023-01-05 20:50:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h28m
+Fernando070519934427109843,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h10m15s
+Fernando070519934427109843,2023-01-07 02:45:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",1h45m30s
+Fernando070519934427109843,2023-01-11 01:15:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h30m40s
+Fernando070519934427109843,2023-01-16 04:00:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h15m20s
+Fernando070519934427109843,2023-01-21 00:30:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",2h30m10s
+Sebastian220820056675089276,2023-01-02 00:30:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h8m
+Sebastian220820056675089276,2023-01-04 02:45:00.000+0000,"{id_pelicula: 'TheHangoverPartII26052011', nombre: 'The Hangover Part II'}",1h35m
+Sebastian220820056675089276,2023-01-07 01:15:00.000+0000,"{id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}",2h21m
+Sebastian220820056675089276,2023-01-11 03:30:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h50m
+Sebastian220820056675089276,2023-01-16 02:00:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h5m
+RicardoGomez140219895598765432,2023-01-01 14:00:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h30m45s
+RicardoGomez140219895598765432,2023-01-02 20:30:00.000+0000,"{id_pelicula: 'Shrek215052004', nombre: 'Shrek 2'}",1h15m20s
+RicardoGomez140219895598765432,2023-01-04 01:45:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",2h10m35s
+RicardoGomez140219895598765432,2023-01-04 18:15:00.000+0000,"{id_pelicula: 'TheDarkKnight18072008', nombre: 'The Dark Knight'}",2h5m15s
+RicardoGomez140219895598765432,2023-01-06 02:00:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h30m10s
+Pedro280219953336092837,2023-01-03 01:30:00.000+0000,"{id_pelicula: 'TheDarkKnight18072008', nombre: 'The Dark Knight'}",2h32m15s
+Pedro280219953336092837,2023-01-07 03:15:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h54m30s
+Pedro280219953336092837,2023-01-11 00:45:00.000+0000,"{id_pelicula: 'LaLaLand09122016', nombre: 'La La Land'}",2h8m20s
+Pedro280219953336092837,2023-01-16 02:00:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h20m45s
+Pedro280219953336092837,2023-01-20 23:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h28m10s
+Isabel011119963338790426,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",1h55m20s
+Isabel011119963338790426,2023-01-07 02:45:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h10m30s
+Isabel011119963338790426,2023-01-11 01:15:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h30m45s
+Isabel011119963338790426,2023-01-16 04:00:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h30m15s
+Isabel011119963338790426,2023-01-21 00:30:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h45m10s
+Azucena030419955557418529,2023-01-03 14:15:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h30m45s
+Azucena030419955557418529,2023-01-08 01:45:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",1h50m15s
+Azucena030419955557418529,2023-01-12 20:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h15m30s
+Azucena030419955557418529,2023-01-19 02:10:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h55m20s
+Azucena030419955557418529,2023-01-22 17:55:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h5m10s
+Maximiliano140219996647213982,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h28m
+Maximiliano140219996647213982,2023-01-06 02:45:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",1h45m
+Maximiliano140219996647213982,2023-01-10 01:15:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h32m
+Maximiliano140219996647213982,2023-01-15 03:30:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h11m
+Maximiliano140219996647213982,2023-01-19 02:00:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h14m
+Gabriel050719797224087631,2023-01-02 02:15:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h55m30s
+Gabriel050719797224087631,2023-01-06 00:30:00.000+0000,"{id_pelicula: 'BatmanBegins15062005', nombre: 'Batman Begins'}",2h30m15s
+Gabriel050719797224087631,2023-01-10 01:45:00.000+0000,"{id_pelicula: 'TheImitationGame14112014', nombre: 'The Imitation Game'}",2h15m
+Gabriel050719797224087631,2023-01-14 03:00:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",1h50m45s
+Gabriel050719797224087631,2023-01-18 02:30:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",2h5m30s
+Gabriel071119925551234567,2023-01-01 14:00:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h
+Gabriel071119925551234567,2023-01-05 17:30:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h30m
+Gabriel071119925551234567,2023-01-10 21:15:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",1h45m
+Gabriel071119925551234567,2023-01-16 00:45:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h20m
+Gabriel071119925551234567,2023-01-21 04:00:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",1h50m
+JorgeSanchez090819825553126789,2023-01-01 14:15:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h30m45s
+JorgeSanchez090819825553126789,2023-01-03 23:45:00.000+0000,"{id_pelicula: 'TheShining23051980', nombre: 'The Shining'}",2h10m15s
+JorgeSanchez090819825553126789,2023-01-06 03:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",1h50m30s
+JorgeSanchez090819825553126789,2023-01-08 18:00:00.000+0000,"{id_pelicula: 'JohnWick30102014', nombre: 'John Wick'}",2h5m10s
+JorgeSanchez090819825553126789,2023-01-11 01:20:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",1h55m20s
+MariaLopez220619975532987654,2023-01-01 15:30:00.000+0000,"{id_pelicula: 'Interstellar05112014', nombre: 'Interstellar'}",2h15m30s
+MariaLopez220619975532987654,2023-01-06 00:45:00.000+0000,"{id_pelicula: 'IRobot15072004', nombre: 'I, Robot'}",1h50m10s
+MariaLopez220619975532987654,2023-01-10 20:20:00.000+0000,"{id_pelicula: 'Shooter23032007', nombre: 'Shooter'}",2h5m45s
+MariaLopez220619975532987654,2023-01-16 02:10:00.000+0000,"{id_pelicula: 'GrownUps25062010', nombre: 'Grown Ups'}",1h40m20s
+MariaLopez220619975532987654,2023-01-20 18:55:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h30m15s
+Emilio021219963338790426,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",1h48m
+Emilio021219963338790426,2023-01-05 02:15:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h5m
+Emilio021219963338790426,2023-01-08 01:45:00.000+0000,"{id_pelicula: 'LaNocheDelDemonio17062010', nombre: 'La Noche del Demonio'}",1h38m
+Emilio021219963338790426,2023-01-12 03:30:00.000+0000,"{id_pelicula: 'ElLoboDeWallStreet10012014', nombre: 'El Lobo de Wall Street'}",3h
+Emilio021219963338790426,2023-01-14 04:00:00.000+0000,"{id_pelicula: 'CuestionDeTiempo06122013', nombre: 'Cuestión de Tiempo'}",2h3m
+Valentina240519863336092837,2023-01-02 01:30:00.000+0000,"{id_pelicula: 'TheHangover05062009', nombre: 'The Hangover'}",2h5m30s
+Valentina240519863336092837,2023-01-06 03:45:00.000+0000,"{id_pelicula: 'ToyStory213111999', nombre: 'Toy Story 2'}",1h32m
+Valentina240519863336092837,2023-01-10 00:15:00.000+0000,"{id_pelicula: 'Rush27092013', nombre: 'Rush'}",2h3m
+Valentina240519863336092837,2023-01-14 02:30:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h28m
+Valentina240519863336092837,2023-01-18 01:00:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",2h14m
+Carolina220820076675089276,2023-01-03 00:30:00.000+0000,"{id_pelicula: 'TheConjuring210062016', nombre: 'The Conjuring 2'}",1h58m30s
+Carolina220820076675089276,2023-01-07 02:45:00.000+0000,"{id_pelicula: 'RapidosFuriosos515042011', nombre: 'Rápidos y Furiosos 5'}",2h14m15s
+Carolina220820076675089276,2023-01-11 01:15:00.000+0000,"{id_pelicula: 'Inception22072010', nombre: 'Inception'}",2h32m10s
+Carolina220820076675089276,2023-01-16 04:00:00.000+0000,"{id_pelicula: 'shining23051980', nombre: 'The Shining'}",1h46m20s
+Carolina220820076675089276,2023-01-21 00:30:00.000+0000,"{id_pelicula: 'JohnWick24102014', nombre: 'John Wick'}",1h53m45s
